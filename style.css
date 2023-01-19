@@ -1,0 +1,11 @@
+.viajes_div{
+    border: 1px solid rgb(194, 208, 194);
+
+}
+.viajes_div img{
+ width: 550px;
+ height: 400px;
+}
+body{
+text-align: center;
+}
